@@ -13,4 +13,4 @@
 ![Page_11](docs/img/DynamicHedging_page-0011.jpg)
 ![Page_12](docs/img/DynamicHedging_page-0012.jpg)
 ![Page_13](docs/img/DynamicHedging_page-0013.jpg)
-![Page_13](docs/img/DynamicHedging_page-0014.jpg)
+![Page_14](docs/img/DynamicHedging_page-0014.jpg)
